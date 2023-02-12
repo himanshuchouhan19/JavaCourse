@@ -3,7 +3,7 @@ package MultiDimArray;
 public class Array2D {
 
     public static void main(String arg[]) {
-        int nums[][] = new int[3][4];
+       // int nums[][] = new int[3][4];
         int nums1[][] = new int[3][]; //Jagged Arrays
 
         nums1[0] = new int[5];

@@ -1,4 +1,4 @@
-package StringTutorial;
+package Array;
 
 public class StudentMain {
 
@@ -19,7 +19,7 @@ public class StudentMain {
         s3.name  = "Tanuja";
         s3.marks = 94.00;
 
-        Student studs[] = new Student[3];
+        Student studs[] = new Student[3]; // Creating an array ehich hold Student References
         studs[0] = s1;
         studs[1] = s2;
         studs[2] = s3;

@@ -1,4 +1,4 @@
-package StringTutorial;
+package Array;
 
 public class Student {
 
